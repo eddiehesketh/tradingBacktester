@@ -14,7 +14,7 @@ Features:
 
 3. Profitability Optimization
 	•	Identifies the most profitable combinations of trading parameters.
-	•	Helps optimize strategies by comparing performance metrics like ROI and cumulative returns.
+	•	Helps optimize strategies by comparing performance metrics.
 
 4. Interactive User Interface
 	•	Easy-to-use interface for inputting investment parameters and viewing results.
